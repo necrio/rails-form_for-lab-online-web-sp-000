@@ -6,5 +6,5 @@ class Createstudents < ActiveRecord::Migration[5.0]
       
       t.timestamps null: false
     end
-end 
+  end 
 end
